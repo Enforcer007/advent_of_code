@@ -13,6 +13,6 @@ The challenge is unique compared to other competitive programming challenges.
 The solutions are written in [Rust](https://www.rust-lang.org/) a high performant language.
 
 | Day | Story | Solution | Part1 | Part2 |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Dec-1 | [Sonar Sweep](https://adventofcode.com/2021/day/1) | [Day1](./src/day1.rs) 🚢 | ⭐ | ⭐ | 
 
